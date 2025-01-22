@@ -17,3 +17,7 @@
 09.cpp : Design a MPI program that uses blocking send/receive routines and nonblocking send/receive routines. CODE
 
 10.cpp : Multiply two square matrices (1000, 2000 or 3000 dimensions). Compare the performance of a squential and parallel algorithm using openMP. 
+
+boyGirlCoach.c : A college has entered a competition with its teams of boys and girls (2 each). The head coach needs to communicate with all the players in some instances while in other cases he wants to exclusively talk to the boys or the girls. Using the MPI group communication paradigms implement this requirement and write a sample program to demonstrate the same. 
+
+SumOfElementofArrUsingMPI : Design a MPI program to compute the sum of all the elements of an array which are distributed among multiple processes. Each process works on a portion of the array elements and the final result is gathered and printed. 
