@@ -1,4 +1,4 @@
-//Boys girls coach unit 3
+//Boys girls coach unit 3 using MPI
 
 #include <mpi.h>
 #include <stdio.h>
